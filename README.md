@@ -1,0 +1,2 @@
+# maze
+Focus-friendly game
